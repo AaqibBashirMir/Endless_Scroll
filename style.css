@@ -1,0 +1,15 @@
+
+#container1>div{
+  
+    display:flex ;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSODeXfzVmOwWlOuoLmhdNVRDA-X017sUeGNPFb9PrC_Q&s');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
